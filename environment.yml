@@ -1,0 +1,13 @@
+name: py38_2021RDKitUGM
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.8
+  - boost
+  - rdkit
+  - jupyter
+  - py3dmol
+  - ipywidgets
+  - pandas
+
